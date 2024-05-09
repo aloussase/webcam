@@ -1,0 +1,26 @@
+---
+import { Image } from "astro:assets";
+import kawaii404 from "../404.png";
+import AppBar from "../components/AppBar.astro";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>aloussase | Blog</title>
+  </head>
+  <body>
+    <header class="md:w-2/3 mx-auto w-4/5 p-4">
+      <AppBar />
+    </header>
+    <main>
+      <div class="flex flex-col w-full items-center py-8">
+        <Image src={kawaii404} alt="404 Not Found" width="500" />
+        <h1 class="text-2xl">Are you lost?</h1>
+      </div>
+    </main>
+  </body>
+</html>
