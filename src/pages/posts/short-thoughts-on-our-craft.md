@@ -18,7 +18,7 @@ elegance.
 Code devoid of elegance is nothing more than the ultimate expression of hatred
 from mankind towards all that humanity encompasses. It's the rejection of what
 separates us from machines. This is more so today, in the era of AI 🤮, than
-ever. For a machine can actually write code like and emotionless man o woman
+ever. For a machine can actually write code like and emotionless man or woman
 would.
 
 This is why it is our job to preseve humanity in our craft throught the
